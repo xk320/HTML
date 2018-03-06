@@ -1,0 +1,21 @@
+HTML标题
+HTML标题（heading）是通过<h1>-<h6>等标签进行定义的
+实例：
+<h1>This is a heading</h1>
+<h4>This is a heading</h4>
+
+HTML段落
+HTML段落是通过<p>标签进行定义的
+实例
+<p>This is a paragraph.</p>
+<p>This is a another paragraph.</p>
+
+HTML链接
+HTML链接是通过<a>标签来定义的,在href属性中指定链接的地址
+实例
+<a href=www.baidu.com>百度</a>
+
+HTML图像
+HTML图像是通过<img>标签进行定义的
+实例
+<img src="aaa.jpg" width='104' height='142' />
